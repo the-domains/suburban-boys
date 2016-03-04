@@ -1,6 +1,6 @@
 name: Suburban Boys
 favicon: null
-layout_spectrum: 0.8108325663488358
+layout_spectrum: 0
 typography_spectrum: 0.41554988687857985
 title: Suburban Days
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ad9573'
     - '#766049'
     - '#35241a'
-  brandStrength: 0.4360642770770937
+  brandStrength: 0.4375
   lightness: 0.06509735644795
   saturation: 0.5841478263027966
   rhythmicContrast: 0.9528656536713243
