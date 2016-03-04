@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Suburban Boys]]></title>
         <description><![CDATA[Suburban Boys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suburban-boys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:42:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 00:43:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suburban-boys/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71476b71-db3c-4e5e-a73e-d0400f939ee6.jpg">]]></description>
-            <link>undefined5c03cc25-545f-4d68-beff-8fa7fc897252/index.html</link>
+            <link>https://thegrid.ai/suburban-boys/5c03cc25-545f-4d68-beff-8fa7fc897252/index.html</link>
             <guid isPermaLink="false">5c03cc25-545f-4d68-beff-8fa7fc897252</guid>
-            <pubDate>Fri, 04 Mar 2016 00:41:22 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 00:43:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
